@@ -4,3 +4,4 @@ Added a third line
 Added a fourth line
 I added a text
 this is another line
+added seventh line
